@@ -9,15 +9,16 @@ Potential applications:
 - Industrial carbon reduction
 - Energy cost forecasting
   
-System Architecture:
-Industrial Sensors / Energy Data
-           ↓
-        Data Pipeline
-           ↓
-        Feature Engineering
-           ↓
-        ML Prediction Model
-           ↓
-        Energy Forecast API
-           ↓
-        Visualization Dashboard
+### System Architecture
+
+- [Industrial Sensors / Energy Data]
+  ↓
+- [Data Pipeline]
+  ↓
+- [Feature Engineering]
+  ↓
+- [ML Prediction Model]
+  ↓
+- [Energy Forecast API]
+  ↓
+- [Visualization Dashboard]
