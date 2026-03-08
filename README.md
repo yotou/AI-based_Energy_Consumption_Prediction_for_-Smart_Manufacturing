@@ -63,5 +63,26 @@ Streamlit / Web Dashboard
 - Manufacturing energy demand prediction
 - Carbon emission monitoring
 - Industrial cost forecasting
+## Industrial Energy AI Demo
 
+This project demonstrates an industrial AI system for predicting
+factory energy consumption using machine learning.
 
+Features
+
+- Energy consumption prediction
+- Real vs predicted visualization
+- Interactive dashboard with Streamlit
+- Industrial AI architecture design
+## Production AWS Architecture
+
+Industrial sensors → API Gateway → AWS Lambda → S3 → ML Model → Dashboard
+Energy Data
+   ↓
+AWS S3
+   ↓
+ML Model (Python)
+   ↓
+Prediction API
+   ↓
+Streamlit Dashboard
