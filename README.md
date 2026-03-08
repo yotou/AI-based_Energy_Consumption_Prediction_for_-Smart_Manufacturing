@@ -23,10 +23,4 @@ Potential applications:
   ↓
 - [Visualization Dashboard]
 
-industrial-energy-ai-demo
-│
-├─ data
-├─ model
-├─ app.py
-├─ architecture.png
-└─ README.md
+
