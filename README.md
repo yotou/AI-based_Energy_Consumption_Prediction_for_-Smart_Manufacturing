@@ -22,3 +22,11 @@ Potential applications:
 - [Energy Forecast API]
   ↓
 - [Visualization Dashboard]
+
+industrial-energy-ai-demo
+│
+├─ data
+├─ model
+├─ app.py
+├─ architecture.png
+└─ README.md
