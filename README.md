@@ -86,3 +86,12 @@ ML Model (Python)
 Prediction API
    ↓
 Streamlit Dashboard
+## Dashboard Demo
+
+![Energy Dashboard](images/dashboard1.png)
+![Energy Dashboard](images/dashboard2.png)
+![Energy Dashboard](images/dashboard3.png)
+![Energy Dashboard](images/dashboard4.png)
+## Energy Prediction
+
+![Prediction Chart](images/prediction.png)
