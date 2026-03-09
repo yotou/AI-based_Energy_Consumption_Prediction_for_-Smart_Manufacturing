@@ -154,6 +154,4 @@ http://localhost:8501
 
 ---
 
-# License
 
-MIT License
