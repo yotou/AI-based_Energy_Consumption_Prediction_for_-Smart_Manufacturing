@@ -109,6 +109,16 @@ AI Anomaly Detection
 (Screenshots can be added in the `/images` folder.)
 
 ---
+### AWS Components
+
+| Component | Role |
+|------|------|
+| Amazon S3 | Store industrial energy datasets |
+| AWS Lambda | Run prediction models |
+| API Gateway | Provide REST API for prediction |
+| EC2 / SageMaker | Optional model training |
+| Streamlit Dashboard | Visualize energy forecasts |
+
 
 # Running the Demo
 
@@ -153,5 +163,6 @@ http://localhost:8501
 - Real-time industrial monitoring pipelines
 
 ---
+
 
 
